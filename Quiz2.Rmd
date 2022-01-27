@@ -1,0 +1,17 @@
+---
+title: "Quiz2"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file (may require `tinytex` to compile) to D2L.
+
+### 1. Describe the difference between an observational study and a designed experiment.
+
+### 2. Give an example, not presented in class, where an experimental unit and an observational unit can be different.
+
+### 3. What are some challenges of peforming designed experiments where the experimental units are humans?
