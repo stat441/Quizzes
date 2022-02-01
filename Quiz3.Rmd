@@ -1,0 +1,19 @@
+---
+title: "Quiz 3"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file (may require `tinytex` to compile) to D2L.
+
+Propose an experiment and outline steps 1 - 5 below, for now consider just a single treatment factor. Note we will soon have our first project and while you do not have to do what you propose here, it will make the project easier.
+
+1. Define objective
+2. Define meaningful and measurable response
+3. Diagram treatment application process for a single run
+4. Identify experimental units
+5. List sources of variation.
