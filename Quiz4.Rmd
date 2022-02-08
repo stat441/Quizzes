@@ -1,0 +1,17 @@
+---
+title: "Quiz 4"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file (may require `tinytex` to compile) to D2L.
+
+1. What has been the best part of this class?
+
+2. What has been the worst part of this class?
+
+3. What could be changed to improve your learning experience?
