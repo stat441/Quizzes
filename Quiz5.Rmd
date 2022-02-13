@@ -1,0 +1,67 @@
+---
+title: "Quiz 5"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file to D2L.
+
+Consider this quiz to be a proposal for your first project, which will be completed in the coming weeks.
+
+1. Please submit a title of your project that includes: an objective, a meaningful and measurable response, levels of your treatment factor, and identified experimental units.
+
+2. Will you be working in a group with any classmates? If so, who?
+
+
+---
+
+Here are some principles for the first project:
+
+1. __Timeliness:__ Your project will require a pilot study and an actual experiment, so all of the experimental runs should be able to be completed within a day or two. 
+
+2. __Data Collection:__ The best case for data collection / analysis for this study will be a objective, continuous measurement: distance, temperature, height, etc.. However, if you do plan to collect subjective, Likert scale responses consider ratings on a 1 - 100 scale. (We won't be focusing on ordinal regression models for analyzing ordinal data.)
+
+3. __Group Work:__ You are encouraged to work in groups of up to size 3.
+
+4. __Example Projects__:
+    - What is the effect of salt on the boiling/freezing temperature of water?
+    - Which paper towel brand is the strongest?
+    - How do different air-pressure levels / (other bicycle characteristics) impact time to ride a course?
+    - How does ski length / wax impact time to ski course?
+    - How do yeti / nalgene / hydroflask containers differ at keeping drink hot or cold?
+    - A few more projects are listed below from: 101 Ways to Design an Experiment, or Some Ideas About Teaching Design of Experiments by William G. Hunter
+    
+    
+    
+    
+---
+_variables_: seat height (26, 30 inches), generator (off,on), tire pressure (40, 55 psi)
+_responses:_ time to complete fixed course on bicycle and pulse rate at finish
+
+_variables_: brand of popcorn (ordinary, gourmet), size of batch (1/3,2/3 cup), popcorn to oil ratio (low, high)
+_responses:_ yield of popcorn
+
+_variables_: amount of yeast, amount of sugar, liquid (milk, water), rise temperature, rise time
+_responses:_ quality of bread, especially the total rise
+
+_variables_: pan (aluminum, iron), burner on stove, cover for pan (no, yes)
+_responses:_ time to boil water
+
+_variables_: pack on back (no, yes), footwear (tennis shoes, boots), run (7, 14 flights of steps)
+_responses:_ time required to run up steps and heartbeat at top
+
+_variables_: oven temperature, length of heating, amount of water
+_responses:_ height of cake
+
+_variables_: temperature, humidity, rock salt
+_responses:_ time to melt ice
+
+_variables_: orientation of football, kick (ordinary, soccer style),steps taken before kick, shoe (soft, hard)
+_responses:_ distance football was kicked
+
+_variables_: mode (batch, time-sharing), job size, system utilization (low, high)
+_responses:_ time to complete job on computer
