@@ -1,0 +1,23 @@
+---
+title: "Quiz 6"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file to D2L.
+
+This quiz will continue scaffolding your project. Expect the final submission for project 1 to be due the week after spring break. Future quiz(zes) will include selecting randomization procedures,  mapping out data analysis, and considering sample size characteristics.
+
+Complete steps 1 - 6 in our planning checklist. You will have done some of this for the previous quiz. For your pilot study, include at least one (preferably more) replicate for each treatment level. Include a description of the data you collected during the pilot experiment along with a discussion of what was learned.
+
+1. Define objectives
+2. Define meaningful and measurable response
+3. Diagram treatment application process for a single run
+4. Identify experimental units
+5. List sources of variation
+6. Perform pilot runs
+
