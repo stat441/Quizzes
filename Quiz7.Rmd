@@ -1,0 +1,29 @@
+---
+title: "Quiz 6"
+author: " "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Please answer these questions and submit your .RMD file and .PDF file to D2L.
+
+This quiz will continue scaffolding your project. Expect the final submission for project 1 to be due a week or two after spring break. 
+
+Complete steps 1 - 6 and 8 - 10 in our planning checklist. You will have done some of this for the previous quiz. 
+
+For part 8. If you don't anticipate having enough sample size to acheive your desired precision that is okay for the first project.
+
+1. Define objectives
+2. Define meaningful and measurable response
+3. Diagram treatment application process for a single run
+4. Identify experimental units
+5. List sources of variation
+6. Perform pilot runs
+7. ~~Choose experimental design (i.e. randomization)~~
+8. Determine number of replicates required
+9. Describe method(s) for data analysis
+10. Timetable and budget for resources to complete experiment
+
